@@ -1,0 +1,44 @@
+
+Fecha	Primer autor	Concentración total de PFAS	Número de PFAS	Concentración máxima de PFOA	Concentración máxima de PFOS	Ubicación
+ug/kg		ug/kg	ug/kg	
+2010/2013	Clavo	0,3 - 3,9	12	3.4	1.7	Corea
+2010	Li	141 - 237	15	47.5	10.4	Porcelana
+2010/2019	Wang/Gao	0,7 - 22	9	2	20	Porcelana
+2011	Cacerola	<0,3 - 9,4	9	0.5	2.4	Porcelana
+2011	Wang	0,1 - 8,5	12	2.8	0.9	Porcelana
+2011	Wang	<0,1 - 1,7	12	0.5	0.7	Porcelana
+2012	Wang	1.3 - 11	12	0.9	9.4	Porcelana
+2012	Strynar	<0,5 - 150	13	32	10	Múltiple
+2012	Llorca	<0,1 - 5,8	18	1.5	5.4	Tierra del Fuego y la Antártida
+2013	Wang	<0,1 - 1,8	22	0.3	0.4	Porcelana
+2013	Meng	<0,1 - 4,1	16	0.2	0.2	Porcelana
+2014	Kim	<0,05 - 1,6	2	0.7	0.9	Corea
+2014	Broncearse	<0,1 - 1,8	16	0.3	0.1	Nepal
+2015	Xiao	6 - 135	2	28	126	Estados Unidos
+2014/2015	Shan/Jin	0,7 - 28,8	11	9	0.3	Porcelana
+2015	Meng	0,04 - 3,6	13	2.3	1.9	Porcelana
+2016	Chen	0,3 - 5	17	25	2	Porcelana
+2016	Clasificación	0,05 - 15	32	3.4	3.1	Múltiple
+2016	NH DES	<0,5 - 71	12	33	59	Estados Unidos
+2016	Zhang	0,1 - 4	21	4.2	2.7	Porcelana
+2017	Choi	<0,05 - 3,6	2	1.8	2.7	Corea
+2017	Liu	1.9 -126	12	123.6	2.7	Porcelana
+2018	Meng	3 - 64	12	5	4.2	Porcelana
+2018	Scher	1.3 - 30	7	3	12	Estados Unidos
+2018	kikuchi	<0,02 - 20	28	0.6	1.7	Suecia
+2018	Grupo de trabajo de alto rendimiento	<0,2 - 5,1	6	0.5	3.1	Estados Unidos
+2018	NEA	0,4 - 174	17	3.3	162	Noruega
+2018	Dalahmeh	1.7 - 7.9	26	0.9	3	Uganda
+2018	Wang	<0,001 - 0,01	2	0.01	0.003	Porcelana
+2019	Zhu	0,5 - 35	17	4.9	9.7	Estados Unidos
+2019	Cao	0,6 - 5,1	17	2.7	0.1	Porcelana
+2019	Groffen	0.8 - 53	15	3.7	37	Bélgica
+2019	Kim	0,1 - 13,9	17	2.1	0.7	Corea
+2019	Li	NR - 64.7	21	16.6	2.8	Porcelana
+2019	SEO	2,5 - 8,8	19	0.3	1	Corea
+2019	Skaar	<0,05 - 7,1	14	0.01	7.1	Noruega
+2019	Zhang	4.2 - 49	12	23	1.2	Porcelana
+En general		<0,001 - 237				
+máximo				123.6	162	
+mínimo				0.01	0.003	
+mediana				2.7	2.7
